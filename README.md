@@ -48,4 +48,4 @@ Claro. Sinta-se a vontade para contribuir com o projeto. Toda melhoria é bem vi
 
 ## Gostei do seu trabalho. Onde consigo mais coisas publicadas por você?
 
-Visite meu [site pessoal](www.pedrobertoleti.com) para ter acesso a quase tudo que publico no Brasil e exterior.
+Visite meu [site pessoal](http://www.pedrobertoleti.com) para ter acesso a quase tudo que publico no Brasil e exterior.
