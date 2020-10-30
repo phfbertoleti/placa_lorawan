@@ -44,6 +44,8 @@ Resposta curta: 100% do projeto. Ou seja:
 * Lista de materiais (BOM)
 * Bibliotecas e footprints KiCad (para transistor FQP30N06L e Heltec wifi LoRa V1, sendo este último desenhado por mim).
 
+Para ver a BOM interativa, [clique aqui](https://htmlpreview.github.io/?https://github.com/phfbertoleti/placa_lorawan/blob/master/BOM/ibom.html)
+
 ## Desejo contribuir com novas funcionalidades ou correções. Sou bem vindo?
 
 Claro. Sinta-se a vontade para contribuir com o projeto. Toda melhoria é bem vinda!
