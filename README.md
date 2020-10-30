@@ -32,6 +32,8 @@ Esta placa, usada juntamente com um módulo Heltec wifi LoRa V1 e os sensores qu
 * Detecção de gases inflamávei e fumaça
 * Display OLED 0.96" (azul)
 
+Além disso, a placa possui conector para alimentação através de energias renováveis (solar, eólica ou hidráulica), com tensão de alimentação de até 15V.
+
 ## O que está disponivel neste repositório?
 
 Resposta curta: 100% do projeto. Ou seja:
