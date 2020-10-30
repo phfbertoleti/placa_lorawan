@@ -1,0 +1,92 @@
+
+(module TO220V (layer F.Cu) (tedit 5F88FE96)
+  (descr "<b>TO 200 vertical</b>")
+  (fp_text reference REF** (at -1.90568 5.41215 0) (layer F.SilkS)
+    (effects (font (size 1.00036220472 1.00036220472) (thickness 0.015)))
+  )
+  (fp_text value TO220V (at -1.27142 6.99281 0) (layer F.Fab)
+    (effects (font (size 1.00111811024 1.00111811024) (thickness 0.015)))
+  )
+  (fp_line (start 5.08 1.143) (end 4.953 4.064) (layer F.SilkS) (width 0.127))
+  (fp_line (start 4.699 4.318) (end 4.953 4.064) (layer F.SilkS) (width 0.127))
+  (fp_line (start 4.699 4.318) (end -4.699 4.318) (layer F.SilkS) (width 0.127))
+  (fp_line (start -4.953 4.064) (end -4.699 4.318) (layer F.SilkS) (width 0.127))
+  (fp_line (start -4.953 4.064) (end -5.08 1.143) (layer F.SilkS) (width 0.127))
+  (fp_circle (center -4.4958 3.7084) (end -4.2418 3.7084) (layer F.SilkS) (width 0.127))
+  (fp_text user 1 (at -3.18133 3.18133) (layer F.Fab)
+    (effects (font (size 1.00199212598 1.00199212598) (thickness 0.015)))
+  )
+  (fp_text user 2 (at -0.635843 3.17922) (layer F.Fab)
+    (effects (font (size 1.00133070866 1.00133070866) (thickness 0.015)))
+  )
+  (fp_text user 3 (at 1.9066 3.17766) (layer F.Fab)
+    (effects (font (size 1.00083464567 1.00083464567) (thickness 0.015)))
+  )
+  (fp_poly
+    (pts
+      (xy -5.34044 0.0)
+      (xy 5.334 0.0)
+      (xy 5.334 0.762919)
+      (xy -5.34044 0.762919)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -5.33672 0.762)
+      (xy -3.429 0.762)
+      (xy -3.429 1.27065)
+      (xy -5.33672 1.27065)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -1.65354 0.762)
+      (xy -0.889 0.762)
+      (xy -0.889 1.27196)
+      (xy -1.65354 1.27196)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -3.42945 0.762)
+      (xy -1.651 0.762)
+      (xy -1.651 1.27017)
+      (xy -3.42945 1.27017)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 0.889697 0.762)
+      (xy 1.651 0.762)
+      (xy 1.651 1.271)
+      (xy 0.889697 1.271)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 3.43158 0.762)
+      (xy 5.334 0.762)
+      (xy 5.334 1.27096)
+      (xy 3.43158 1.27096)
+    ) (layer F.SilkS) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy -0.889429 0.762)
+      (xy 0.889 0.762)
+      (xy 0.889 1.27061)
+      (xy -0.889429 1.27061)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (fp_poly
+    (pts
+      (xy 1.65106 0.762)
+      (xy 3.429 0.762)
+      (xy 3.429 1.27005)
+      (xy 1.65106 1.27005)
+    ) (layer F.Fab) (width 0.01)
+  )
+  (pad 1 thru_hole oval (at -2.54 2.54) (size 1.524 3.048) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 2 thru_hole oval (at 0.0 2.54) (size 1.524 3.048) (drill 1.016) (layers *.Cu *.Mask))
+  (pad 3 thru_hole oval (at 2.54 2.54) (size 1.524 3.048) (drill 1.016) (layers *.Cu *.Mask))
+)

@@ -1,0 +1,41 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# FQP30N06L
+#
+DEF FQP30N06L Q 0 40 N N 1 L N
+F0 "Q" -450 100 50 H V L BNN
+F1 "FQP30N06L" -450 0 50 H V L BNN
+F2 "TO220V" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 30 30 30 0 N
+P 2 0 0 10 30 0 30 -30 N
+P 2 0 0 10 30 125 30 100 N
+P 2 0 0 10 30 100 30 75 N
+P 2 0 0 6 30 0 100 0 N
+P 2 0 0 6 100 0 100 -100 N
+P 2 0 0 10 30 -75 30 -100 N
+P 2 0 0 10 30 -100 30 -125 N
+P 2 0 0 10 0 100 0 -100 N
+P 2 0 0 6 100 -100 30 -100 N
+P 2 0 0 6 150 100 150 20 N
+P 2 0 0 6 150 20 150 -100 N
+P 2 0 0 6 100 -100 150 -100 N
+P 2 0 0 6 30 100 150 100 N
+P 2 0 0 6 180 30 170 20 N
+P 2 0 0 6 170 20 150 20 N
+P 2 0 0 6 150 20 130 20 N
+P 2 0 0 6 130 20 120 10 N
+C 100 -100 14 0 0 0 N
+C 100 100 14 0 0 0 N
+P 3 0 0 6 150 20 130 -10 170 -10 F
+P 3 0 0 6 40 0 80 30 80 -30 F
+X ~ 3 100 -200 100 U 40 40 0 0 P 
+X ~ 1 -100 -100 100 R 40 40 0 0 P 
+X ~ 2 100 200 100 D 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
