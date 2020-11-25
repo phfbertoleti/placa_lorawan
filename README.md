@@ -1,6 +1,6 @@
 # Placa LoRaWAN - repositório oficial
 
-Este é o repositório oficial da placa LoRaWAN, placa de desenvolvimento para protótipos em Internet das Coisas com LoRaWAN, Bluetooth (CLE e clássico) e WiFi, fazendo uso do módulo Heltec wifi LoRa V1.
+Este é o repositório oficial da placa LoRaWAN, placa de desenvolvimento para protótipos em Internet das Coisas com LoRaWAN, Bluetooth (BLE e clássico) e WiFi, fazendo uso do módulo Heltec wifi LoRa V1.
 
 Este projeto é totalmente open-source (licença: MIT).
 
@@ -15,7 +15,7 @@ Essa placa tem objetivo de facilitar o desenvolvimento de protótipos em Interne
 
 Para comunicação com módulos (exemplo: GPS) e microcontroladores externos, a placa conta ainda com uma interface UART (níveis 3V3 e 5V, selecionável por jumper / ponte soldada na placa) e uma interface I²C (nível 3V3).
 
-Além disso, essa placa permite o uso do módulo de controle Heltec wifi LoRa V1 com bateria (LiPo ou Li-Ion, de 1 célula), permitindo tamem a recarga e medição da tensão da mesma.
+Além disso, essa placa permite o uso do módulo de controle Heltec wifi LoRa V1 com bateria (LiPo ou Li-Ion, de 1 célula), permitindo também a recarga e medição da tensão da mesma.
 
 Isso significa que mesmo que você possua pouca experiência com eletrônica e soldagem, conseguirá facilmente montar e utilizar a placa.
 
